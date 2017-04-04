@@ -4,44 +4,34 @@
 <filesystem>
     <folder name="Actions">
         <folder name="File">
-            <file name="org-myorg-baidutoolbar-BaiduActionListener.instance">
-                <!--org.myorg.baidutoolbar.BaiduActionListener-->
-                <attr name="delegate" newvalue="org.myorg.baidutoolbar.BaiduActionListener"/>
-                <attr name="iconBase" stringvalue="org/myorg/baidutoolbar/baidu2.gif"/>
-                <attr boolvalue="false" name="noIconInMenu"/>
-                <!--org.myorg.baidutoolbar.BaiduActionListener2-->
-                <attr name="displayName" stringvalue="NOT-USED"/>
-                <attr name="instanceCreate" newvalue="org.myorg.baidutoolbar.BaiduActionListener2"/>
-            </file>
-            <file name="org-myorg-googletoolbar-GoogleActionListener.instance">
-                <!--org.myorg.baidutoolbar.BaiduActionListener2-->
-                <attr name="displayName" stringvalue="NOT-USED"/>
-                <attr name="instanceCreate" newvalue="org.myorg.baidutoolbar.BaiduActionListener2"/>
-            </file>
             <file name="org-myorg-baidutoolbar-BaiduActionListener2.instance">
                 <!--org.myorg.baidutoolbar.BaiduActionListener2-->
                 <attr name="displayName" stringvalue="NOT-USED"/>
                 <attr name="instanceCreate" newvalue="org.myorg.baidutoolbar.BaiduActionListener2"/>
             </file>
+            <file name="org-myorg-baidutoolbar-BaiduActionListener.instance">
+                <!--org.myorg.baidutoolbar.BaiduActionListener-->
+                <attr
+                    bundlevalue="org.myorg.baidutoolbar.Bundle#CTL_BaiduActionListener" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.myorg.baidutoolbar.BaiduActionListener"/>
+                <attr name="iconBase" stringvalue="org/myorg/baidutoolbar/baidu2.gif"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
         </folder>
     </folder>
     <folder name="Toolbars">
         <folder name="File">
-            <file name="org-myorg-baidutoolbar-BaiduActionListener.shadow">
-                <!--org.myorg.baidutoolbar.BaiduActionListener-->
-                <!--org.myorg.baidutoolbar.BaiduActionListener2-->
-                <attr name="originalFile" stringvalue="Actions/File/org-myorg-baidutoolbar-BaiduActionListener.instance"/>
-                <attr intvalue="0" name="position"/>
-            </file>
-            <file name="org-myorg-googletoolbar-GoogleActionListener.shadow">
-                <!--org.myorg.baidutoolbar.BaiduActionListener2-->
-                <attr name="originalFile" stringvalue="Actions/File/org-myorg-googletoolbar-GoogleActionListener.instance"/>
-                <attr intvalue="0" name="position"/>
-            </file>
             <file name="org-myorg-baidutoolbar-BaiduActionListener2.shadow">
                 <!--org.myorg.baidutoolbar.BaiduActionListener2-->
                 <attr name="originalFile" stringvalue="Actions/File/org-myorg-baidutoolbar-BaiduActionListener2.instance"/>
-                <attr intvalue="1" name="position"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="org-myorg-baidutoolbar-BaiduActionListener.shadow">
+                <!--org.myorg.baidutoolbar.BaiduActionListener-->
+                <attr name="originalFile" stringvalue="Actions/File/org-myorg-baidutoolbar-BaiduActionListener.instance"/>
+                <attr intvalue="-100" name="position"/>
             </file>
         </folder>
     </folder>

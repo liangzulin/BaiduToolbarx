@@ -20,12 +20,12 @@ import org.openide.util.NbBundle.Messages;
         iconBase = "org/myorg/baidutoolbar/baidu2.gif",
         displayName = "#CTL_BaiduActionListener"
 )
-@ActionReference(path = "Toolbars/File", position = 0)
-@Messages("CTL_BaiduActionListener=Baidu")
+@ActionReference(path = "Toolbars/File", position = -100)
+@Messages("CTL_BaiduActionListener=baidu")
 public final class BaiduActionListener implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        // Add some thing to do
+        // TODO implement action body
     }
 }
