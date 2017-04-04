@@ -26,6 +26,6 @@ public final class BaiduActionListener implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        // TODO implement action body
+        // Add some thing to do
     }
 }
