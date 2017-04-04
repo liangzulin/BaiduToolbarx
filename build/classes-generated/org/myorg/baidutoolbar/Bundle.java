@@ -3,7 +3,7 @@ package org.myorg.baidutoolbar;
 @javax.annotation.Generated(value="org.netbeans.modules.openide.util.NbBundleProcessor")
 class Bundle {
     /**
-     * @return <i>Baidu</i>
+     * @return <i>baidu</i>
      * @see BaiduActionListener
      */
     static String CTL_BaiduActionListener() {
