@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.myorg.baidutoolbar">
+    <module_version install_time="1491309624803" last="true" origin="installer" specification_version="1.0">
+        <file crc="3319863080" name="config/Modules/org-myorg-baidutoolbar.xml"/>
+        <file crc="2022846330" name="modules/org-myorg-baidutoolbar.jar"/>
+    </module_version>
+</module>

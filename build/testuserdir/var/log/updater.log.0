@@ -1,0 +1,68 @@
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\to_disable.txt
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\to_disable.txt deleted.
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate deleted.
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\update deleted.
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir deleted.
+Apr 04, 2017 9:33:26 PM org.netbeans.updater.ModuleDeactivator writeStringToFile
+INFO: File D:\Java\BaiduToolbarx\build\testuserdir\config\Modules\org-myorg-baidutoolbar.xml modified.
+Apr 04, 2017 9:35:18 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\testuserdir\config\Modules\org-myorg-baidutoolbar.xml
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\testuserdir\config\Modules\org-myorg-baidutoolbar.xml deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\config\Modules deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\config deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\cluster\modules\org-myorg-baidutoolbar.jar
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\cluster\modules\org-myorg-baidutoolbar.jar deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster\modules deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\deactivate_later.txt
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\deactivate_later.txt deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\cluster\config\Modules\org-myorg-baidutoolbar.xml
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\cluster\config\Modules\org-myorg-baidutoolbar.xml deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster\config\Modules deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster\config deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\to_uninstall.txt
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate\to_uninstall.txt deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\update\deactivate deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir\update deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\testuserdir deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: Deleting file: D:\Java\BaiduToolbarx\build\cluster\update_tracking\org-myorg-baidutoolbar.xml
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFO: File D:\Java\BaiduToolbarx\build\cluster\update_tracking\org-myorg-baidutoolbar.xml deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster\update_tracking deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: File D:\Java\BaiduToolbarx\build\cluster\.lastModified deleted.
+Apr 04, 2017 9:35:19 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFO: Directory D:\Java\BaiduToolbarx\build\cluster deleted.

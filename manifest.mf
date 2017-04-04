@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.myorg.baidutoolbar
+OpenIDE-Module-Localizing-Bundle: org/myorg/baidutoolbar/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

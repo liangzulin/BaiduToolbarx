@@ -1,0 +1,17 @@
+C:\Program Files\NetBeans 8.0.2\platform=1441675766224
+cluster.C:/Program Files/NetBeans 8.0.2/nb=1441675766225
+cluster.C:/Program Files/NetBeans 8.0.2/ide=1441675766226
+cluster.C:/Program Files/NetBeans 8.0.2/extide=1441675774020
+cluster.C:/Program Files/NetBeans 8.0.2/java=1441675810474
+cluster.C:/Program Files/NetBeans 8.0.2/apisupport=1441675810475
+cluster.C:/Program Files/NetBeans 8.0.2/websvccommon=1441675774022
+cluster.C:/Program Files/NetBeans 8.0.2/profiler=1441675810477
+cluster.C:/Program Files/NetBeans 8.0.2/harness=1441675810476
+cluster.C:/Program Files/NetBeans 8.0.2/javafx=1416342240000
+cluster.D:/Java/BaiduToolbarx/build/cluster=1491309624818
+user=1491309624818
+crc=7
+locale=cn_CH-J-CLIENT
+branding=nb
+java.version=1.8.0_60
+java.vm.version=25.60-b23
